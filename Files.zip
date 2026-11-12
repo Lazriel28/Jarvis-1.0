@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zip and unzip ZIP, 7-Zip, RAR and TAR files and folders online</title>
+  <meta charset="utf-8">
+	<meta name="author" content="Zygomatic">
+	<!-- Programming by WebGear, webgear.nl -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+	<link rel="preconnect" href="https://cdnjs.cloudflare.com">
+	<link rel="preconnect" href="https://www.googleanalytics.com">
+	<link rel="preconnect" href="https://adservice.google.com">
+	<link rel="preconnect" href="https://googleads.g.doubleclick.net">
+	<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+	<link rel="preconnect" href="https://tpc.googlesyndication.com">
+	<link rel="preconnect" href="https://www.googletagservices.com">
+	<meta name="description" content="Zip and unzip ZIP, 7-Zip, RAR and TAR files and folders online. No registration, no uploads: safe and fast.">
+	<meta name="keywords" content="zip, 7-zip, 7zip, rar, tar, tar.gz, tar.bz2, unzip, online, file, folder, directory, upload, email, zip file, zip files, zip folders, zip online, unzip online, online zip, send, email, compress, decompress, inflate, deflate">
+	<meta property="og:title" content="Zip and unzip ZIP, 7-Zip, RAR and TAR files and folders online">
+	<meta property="og:site_name" content="Files2Zip.com">
+	<meta property="fb:admins" content="100000467987212">
+	<meta property="og:description" content="Zip and unzip ZIP, 7-Zip, RAR and TAR files and folders online. No registration, no uploads: safe and fast.">
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="https://www.files2zip.com/pics/files2zip-logo.png">
+	<meta property="og:url" content="https://www.files2zip.com/">
+	<link rel="alternate" hreflang="en" href="https://www.files2zip.com/">
+	<link rel="alternate" hreflang="nl" href="https://www.files2zip.nl/">
+	<link rel="alternate" hreflang="de" href="https://www.files2zip.de/">
+	<link rel="alternate" hreflang="es" href="https://www.files2zip.es/">
+	<script type="application/ld+json"> { "@context": "http://schema.org", "@type": "Organization", "name": "Zygomatic", "description": "Zygomatic is a publisher and developer of online games and websites.", "url": "https://www.zygomatic.com", "logo": "https://www.zygomatic.com/pics/logo-ldjson.png", "address": { "@type": "PostalAddress", "streetAddress": "Rigaweg 19", "addressLocality": "Amersfoort", "addressCountry": "NL", "postalCode": "3825 PP" }, "contactPoint": { "@type": "contactPoint", "contactType": "Customer Service", "email": "support@zygomatic.com", "telephone": "+31-683901055" }, "sameAs": [ "https://www.linkedin.com/company/zygomatic/", "https://x.com/zygomaticnl" ] } </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/css/?v=2.2" type="text/css">
+  <script nonce="UlJtyP4Q54LDj+7nuodC4Q==" defer src="/js/?lang=en&amp;v=2.2"></script>
+  <script nonce="UlJtyP4Q54LDj+7nuodC4Q==" defer src="/js/?v=2.2&amp;static"></script>
+
+  <script nonce="UlJtyP4Q54LDj+7nuodC4Q==" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="jbn3zvpx1hxx3cr"></script>
+  <script nonce="UlJtyP4Q54LDj+7nuodC4Q==">
+    document.addEventListener('DOMContentLoaded', () => {
+      Page.init();
+      App.init();
+    });
+  </script>
+</head>
+<body>
+  <div id="zygomaticBar"><div><a href="https://www.photoenlarger.com" title="Enlarge images and photos" target="zygomatic"><i class="photoenlarger"></i> <span>Photo Enlarger</span></a></div><div><a href="https://www.toonytool.com" title="Free Online Cartoon and Comic Strip Maker" target="zygomatic"><i class="toonytool"></i> <span>Toony Tool</span></a></div><div><a href="https://www.photocollage.com" title="Photo Collage Maker" target="zygomatic"><i class="collage"></i> <span>Photo Collage</span></a></div><div><a href="https://www.wordclouds.com" title="Word cloud generator" target="zygomatic"><i class="wordcloud"></i> <span>Word Clouds</span></a></div><div><a href="https://www.2img.com" title="In-browser (bulk) image conversion" target="zygomatic"><i class="twoimg"></i> <span>Image conversion</span></a></div><div><a href="https://www.mindclouds.com" title="Online Mind Map Maker" target="zygomatic"><i class="mindclouds"></i> <span>Mind clouds</span></a></div><div class="more"><i></i>More <span class="caret"></span><ul class="dropdownMenu" hidden><li><a href="https://www.chartle.com" title="Online Chart and Graph maker" target="zygomatic"><i class="chartle"></i> Chartle</a></li><li><a href="https://www.fakechatapp.com" title="Create fake chats" target="zygomatic"><i class="fakechatapp"></i> Fake Chat App</a></li><li><a href="https://www.photofilters.com" title="Photo filters and image effects" target="zygomatic"><i class="photofilters"></i> Photo Filters</a></li><li><a href="https://www.coloringonline.com" title="Online coloring books and pages" target="zygomatic"><i class="coloring"></i> Coloring Online</a></li><li><a href="https://www.glitterphoto.net" title="Spice up your photos with glitter" target="zygomatic"><i class="glitterphoto"></i> Glitter Photo</a></li><li><a href="https://www.qrapp.com" title="QR code generator and scanner" target="zygomatic"><i class="qrapp"></i> QR App</a></li><li><a href="https://www.changefaces.com" title="Change the face on a photo and do a face swap" target="zygomatic"><i class="changefaces"></i> Change Faces</a></li><li><a href="https://www.mapimage.com" title="Static map image generator" target="zygomatic"><i class="mapimage"></i> Map Image</a></li><li><a href="https://www.photoresizer.com" title="Resize and Crop Photos" target="zygomatic"><i class="photoresizer"></i> Photo Resizer</a></li><li><a href="https://www.phideo.com" title="Video Slideshow maker" target="zygomatic"><i class="phideo"></i> Phideo</a></li><li><a href="https://www.maproute.com" title="Find and create routes" target="zygomatic"><i class="maproute"></i> Map Route</a></li><li><a href="https://www.youtubetrimmer.com" title="Trim and Crop Youtube videos" target="zygomatic"><i class="youtubetrimmer"></i> Youtube Trimmer</a></li><li><a href="https://www.annotation.com" title="Annotate PDF documents, images, maps and screenshots" target="zygomatic"><i class="annotation"></i> Annotation</a></li><li><a href="https://www.photoeditor.com" title="Photo Editor Free Online" target="zygomatic"><i class="photoeditor"></i> Photo Editor</a></li><li><a href="https://www.stripbackground.com" title="Remove backgrounds from images" target="zygomatic"><i class="stripbackground"></i> Strip Background</a></li><li><a href="https://www.postermaker.com" title="Online Poster maker, Online Poster and Flyer Designer" target="zygomatic"><i class="postermaker"></i> Poster Maker</a></li><li><a href="https://www.2pdfconverter.com" title="Convert documents to PDF and PDF to other document formats" target="zygomatic"><i class="docconverter"></i> PDF converter</a></li><li><a href="https://tools.zygomatic.com/" title="Tools forum" target="zygomatic"><i class="zygotools"></i> Tools forum</a></li></ul></div>
+<script nonce="UlJtyP4Q54LDj+7nuodC4Q==">
+document.querySelector('#zygomaticBar .more').addEventListener('click', e => {
+	const menu = e.currentTarget.querySelector('.dropdownMenu')
+	menu.hidden = !menu.hidden
+})
+</script></div>  
+ <nav class="navbar navbar-expand-lg">
+    <div class="container">
+      <a class="navbar-brand d-flex align-items-center gap-2" href="/">
+        <img src="/pics/files2zip-logo.png" alt="Files2Zip" style="height:50px;margin:-20px 0">
+        <span>Files2Zip</span>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navMenu">
+        <ul class="navbar-nav ms-auto me-lg-3 mb-2 mb-lg-0">
+			    <li class="nav-item"><a class="nav-link" href="https://tools.zygomatic.com/c/files-2-zip-tool" target="_blank"><iconify-icon icon="mdi:forum-outline"></iconify-icon> Forum</a></li>
+			    <li class="nav-item"><a class="nav-link" href="https://paymentlink.mollie.com/payment/DDtaxKkhR43PBo2PRPu11/" target="_blank"><iconify-icon icon="mdi:money"></iconify-icon> Support us</a></li>
+          <li class="nav-item">
+            <div class="btn-group btn-group-sm" role="group" title="Theme switcher">
+              <input type="radio" class="btn-check" name="color-scheme" value="auto" id="theme1">
+              <label class="btn btn-outline-secondary" for="theme1">Auto</label>
+              <input type="radio" class="btn-check" name="color-scheme" value="light" id="theme2">
+              <label class="btn btn-outline-secondary" for="theme2"><iconify-icon inline icon="lucide:sun"></iconify-icon></label>
+              <input type="radio" class="btn-check" name="color-scheme" value="dark" id="theme3">
+              <label class="btn btn-outline-secondary" for="theme3"><iconify-icon inline icon="lucide:moon-star"></iconify-icon></label>
+            </div>
+          </li>
+          <li class="nav-item ms-lg-2 mt-2 mt-lg-0">
+            <div id="languageSwitcher" class="btn-group btn-group-sm" role="group" title="Language switcher"><a class="btn btn-outline-secondary" href="https://www.files2zip.nl/"><img src="/pics/flags/nl.png" title="Files2Zip.nl"></a><a class="btn btn-outline-secondary" href="https://www.files2zip.de/"><img src="/pics/flags/de.png" title="Files2Zip.de"></a><a class="btn btn-outline-secondary" href="https://www.files2zip.es/"><img src="/pics/flags/es.png" title="Files2Zip.es"></a>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <main>
+    <section class="hero">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="text-center">
+            <h1 class="display-3 display-title">
+              Zip and unzip files online              <span class="text-primary">without sending them away</span>
+            </h1>
+
+            <p class="hero-copy my-5">
+              <a href="#tools" data-process="zip">Create ZIP archive</a>: drop your files, create a ZIP archive and download a clean ZIP file. No server round-trip — your files never leave your device.              <br>
+              <a href="#tools" data-process="unzip">Extract archive</a>: drop a ZIP file (RAR, TAR and 7-Zip are also supported) and preview its contents. Download individual files or all at once.            </p>
+
+            <div class="hero-badges d-flex flex-wrap justify-content-center gap-3">
+              <div class="eyebrow">
+                <span class="badge rounded-pill text-bg-success">Client side</span>
+                Private by design              </div>
+
+              <div class="eyebrow">
+                  <iconify-icon icon="lucide:zap" inline></iconify-icon>
+                  Instant compression              </div>
+
+              <div class="eyebrow">
+                <iconify-icon icon="lucide:shield-check" inline></iconify-icon>
+                No file limits              </div>
+            </div>
+
+            <div class="hero-badges d-flex flex-wrap justify-content-center gap-3 mt-3">
+              <div class="eyebrow">
+                <span class="badge rounded-pill text-bg-success">Zip</span>
+                .zip
+              </div>
+
+              <div class="eyebrow">
+                <span class="badge rounded-pill text-bg-success">Rar</span>
+                .rar
+              </div>
+
+              <div class="eyebrow">
+                <span class="badge rounded-pill text-bg-success">7-Zip</span>
+                .7z
+              </div>
+
+              <div class="eyebrow">
+                <span class="badge rounded-pill text-bg-success">Tar</span>
+                  .tar, .tar.gz, .tar.bz2
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <div class="container">
+      <div class="banner top">
+        <!-- AdSense banner --><div class="adsbygoogle" style="display:inline-block;" data-ad-client="ca-pub-5029257013560698" data-ad-slot="9242083494"></div>
+	<!-- /AdSense banner -->      </div>
+    </div>
+
+    <section id="tools" class="my-5">
+      <div class="container">
+        <!--<div class="text-uppercase small text-secondary fw-semibold mb-2 text-center">Workspace</div>-->
+
+        <div class="glass-card p-3 p-lg-4 gradient">
+
+          <div class="nav tool-tabs justify-content-center mb-4" id="toolTabs" role="tablist">
+            <button class="nav-link active" id="zip-tab" data-bs-toggle="pill" data-bs-target="#zip-pane" type="button" role="tab">Create ZIP</button>
+            <button class="nav-link" id="unzip-tab" data-bs-toggle="pill" data-bs-target="#unzip-pane" type="button" role="tab">Extract ZIP</button>
+          </div>
+
+          <div class="tab-content">
+            <div class="tab-pane fade show active" id="zip-pane" role="tabpanel">
+
+              <div class="card card-text">
+                <div class="card-body">
+                  <div class="align-items-center">
+                    <div class="icon-wrap mb-3">
+                      <iconify-icon icon="streamline-ultimate:zip-file-compress" style="font-size:3rem"></iconify-icon>
+                    </div>
+                    <h3 class="h4 mb-2">Create a ZIP archive</h3>
+
+                    <p class="text-secondary mb-0">
+                      Drop or select multiple files and folders, set an archive name, and generate a downloadable ZIP instantly.                    </p>
+
+                    <div class="d-flex justify-content-center gap-2 flex-wrap mt-4 mb-1">
+                      <button class="btn btn-primary px-4 fileBtn"><iconify-icon icon="lucide:upload" inline></iconify-icon> Choose files</button>
+                      <button class="btn btn-primary px-4 folderBtn"><iconify-icon icon="lucide:folder-up" inline></iconify-icon> Choose folder</button>
+                    </div>
+                    <small class="text-secondary">or press [Ctrl]-v to paste from clipboard</small>
+
+                  </div>
+                </div>
+              </div><!--/.card-text-->
+
+              <div class="card card-tree d-none">
+                <div class="card-header">
+
+                  <div class="float-end small">
+                    <div class="resetBtn" data-process="zip"><iconify-icon icon="lucide:trash-2" inline></iconify-icon> Clear all</div>
+                  </div>
+
+                  <div class="summary"><strong>0 files</strong></div>
+                  <small>
+                    Click <span class="lucide--trash text-danger" style="vertical-align:-0.15rem"></span> to delete.                    Click <span class="lucide--eye" style="vertical-align:-0.15rem"></span> for preview.                  </small>
+                </div>
+                <div class="zip-tree-wrap">
+                  <ul class="zip-tree"></ul>
+                </div>
+
+                <div class="text-center p-3">
+                  <button class="btn btn-primary px-4 fileBtn"><iconify-icon icon="lucide:upload" inline></iconify-icon> Add file(s)</button>
+                  <button class="btn btn-primary px-4 folderBtn"><iconify-icon icon="lucide:folder-up" inline></iconify-icon> Add folder</button>
+                </div>
+              </div><!--/.card-tree-->
+
+              <div id="archiveProperties" class="p-3 rounded-4 border mt-4 d-none" style="background:var(--bs-primary-bg-subtle)">
+
+                <div class="row mb-3">
+                  <label for="archiveFilename" class="col-sm-4 col-form-label">Archive name</label>
+                  <div class="col-sm-8">
+                    <input id="archiveFilename" class="form-control form-control" type="text" placeholder="" value="Files.zip" maxlength="80">
+                  </div>
+                </div>
+
+                <div class="row mb-3">
+                  <label for="archivePassword" class="col-sm-4 col-form-label">Archive password</label>
+                  <div class="col-sm-8">
+                    <input id="archivePassword" class="form-control form-control" type="text" maxlength="80">
+                  </div>
+                </div>
+
+                <div class="d-grid gap-2 d-sm-flex">
+                  <button class="btn btn-primary flex-fill" id="createArchiveBtn">Create archive</button>
+                  <button class="btn btn-soft flex-fill resetBtn" data-process="zip">Cancel</button>
+                </div>
+
+                <div id="zipProgress" class="mt-3">
+                  <div></div>
+                </div>
+
+              </div><!--/#archiveProperties-->
+
+              <div id="archiveResult" class="card mt-4 d-none">
+                <div class="card-header">
+                  <h4 class="h4 fw-bold m-0">Archive ready!</h4>
+                  <p class="mb-0 label-muted archiveSummary"></p>
+                </div>
+
+                <div class="d-grid gap-3 p-4">
+                  <div class="summary-row d-flex align-items-center justify-content-between">
+                    <div class="d-flex align-items-center gap-2 label-muted">
+                      <span>Archive name</span>
+                    </div>
+                    <div class="value-main archiveName">Files.zip</div>
+                  </div>
+
+                  <div class="summary-row d-flex align-items-center justify-content-between">
+                    <div class="d-flex align-items-center gap-2 label-muted">
+                      <span>Archive password</span>
+                    </div>
+                    <div class="value-main archivePassword"></div>
+                  </div>
+
+                  <div class="summary-row d-flex align-items-center justify-content-between">
+                    <div class="label-muted">Original size</div>
+                    <div class="value-main archiveOrgSize">0</div>
+                  </div>
+
+                  <div class="summary-row d-flex align-items-center justify-content-between">
+                    <div class="label-muted">Compressed size</div>
+                    <div class="value-main archiveCompressedSize">0</div>
+                  </div>
+
+                  <div class="summary-row highlight d-flex align-items-center justify-content-between">
+                    <div class="d-flex align-items-center gap-2 label-muted">
+                      <span>Space saved</span>
+                    </div>
+                    <div class="text-end">
+                      <div class="value-main fw-bold archiveSpaceSavedPerc">0%</div>
+                      <div class="value-sub archiveSpaceSavedBytes">0</div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-footer">
+                  <div class="d-grid gap-2 d-sm-flex">
+                    <button class="btn btn-primary flex-fill" id="downloadArchiveBtn"><iconify-icon icon="lucide:download" inline></iconify-icon> Download</button>
+                    <button class="btn btn-primary flex-fill" id="emailArchiveBtn"><iconify-icon icon="lucide:mail" inline></iconify-icon> Email</button>
+                    <button class="btn btn-primary flex-fill" id="dropboxArchiveBtn"><iconify-icon icon="mdi:dropbox" inline></iconify-icon> Dropbox</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="tab-pane fade" id="unzip-pane" role="tabpanel">
+
+              <div class="card card-text">
+                <div class="card-body">
+                  <div class="align-items-center">
+                    <div class="icon-wrap mb-3">
+                      <iconify-icon icon="hugeicons:file-zip" style="font-size:3rem"></iconify-icon>
+                    </div>
+                    <h3 class="h4 mb-2">Extract a ZIP archive</h3>
+                    <p class="text-secondary mb-0">Drag or select a ZIP file in (RAR, TAR and 7-Zip are also supported), preview its contents, and download individual files or everything at once.</p>
+
+                    <div class="d-flex justify-content-center gap-2 flex-wrap mt-4">
+                      <button class="btn btn-primary px-4" id="chooseZipFileBtn"><iconify-icon icon="lucide:upload" inline></iconify-icon> Choose archive file</button>
+                    </div>
+                    <small class="text-secondary">or press [Ctrl]-v to paste from clipboard</small>
+                  </div>
+                </div>
+              </div><!--/.card-text-->
+
+              <div class="card card-tree d-none">
+                <div class="card-header">
+                  <div class="float-end small">
+                    <div class="resetBtn" data-process="unzip"><iconify-icon icon="lucide:trash-2" inline></iconify-icon> Clear all</div>
+
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" value="" id="checkHiddenFiles">
+                      <label class="form-check-label" for="checkHiddenFiles">
+                        Show hidden files                      </label>
+                    </div>
+                  </div>
+
+                  <div class="summary"><strong>0 files</strong></div>
+                  <small>
+                    Click files to download or <a id="downloadAllBtn" href="#">download them all</a>.                    Click <span class="lucide--eye" style="vertical-align:-0.15rem"></span> for preview.                    Click <span class="lucide--archive-restore" style="vertical-align:-0.15rem"></span> to unzip.                  </small>
+                </div>
+                <div class="zip-tree-wrap">
+                  <ul class="zip-tree"></ul>
+                </div>
+              </div><!--/.card-tree-->
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="container">
+      <div class="banner bottom">
+        <!-- AdSense banner --><div class="adsbygoogle" style="display:inline-block;" data-ad-client="ca-pub-5029257013560698" data-ad-slot="4911383614"></div>
+	<!-- /AdSense banner -->      </div>
+    </div>
+
+    <section id="features" class="py-5">
+      <div class="container">
+        <div class="text-center mb-5">
+          <div class="text-uppercase small text-secondary fw-semibold mb-2">Why choose Files2Zip?</div>
+          <h2 class="section-title display-6">Trust, clarity, and speed</h2>
+        </div>
+        <div class="row g-4">
+
+          <div class="col-md-6 col-xl-3">
+            <div class="feature-card">
+              <div class="icon-wrap mb-3">
+                <iconify-icon icon="lucide:file-archive"></iconify-icon>
+              </div>
+              <h3 class="h5">Multiple formats</h3>
+              <p class="text-secondary mb-0">Files2zip can extract Zip, 7-Zip, RAR and TAR archives, all in the browser.</p>
+            </div>
+          </div>
+
+
+          <div class="col-md-6 col-xl-3">
+            <div class="feature-card">
+              <div class="icon-wrap mb-3">
+                <iconify-icon icon="lucide:cloud-off"></iconify-icon>
+              </div>
+              <h3 class="h5">100% Client-side</h3>
+              <p class="text-secondary mb-0">Files never touch a server. All compression happens in your browser via WebAssembly-grade zip.js.</p>            </div>
+          </div>
+
+          <div class="col-md-6 col-xl-3">
+            <div class="feature-card">
+              <div class="icon-wrap mb-3">
+                <iconify-icon icon="lucide:lock"></iconify-icon>
+              </div>
+              <h3 class="h5">Privacy by default</h3>
+              <p class="text-secondary mb-0">No accounts, no tracking, no upload queue. Your data stays on your device, period.</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-xl-3">
+            <div class="feature-card">
+              <div class="icon-wrap mb-3">
+                <iconify-icon icon="lucide:eye"></iconify-icon>
+              </div>
+              <h3 class="h5">Preview before download</h3>
+              <p class="text-secondary mb-0">Preview files that your browser can render (images, audio, videos, .txt and .html) before downloading them.</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-xl-3">
+            <div class="feature-card">
+              <div class="icon-wrap mb-3">
+                <iconify-icon icon="lucide:folder-tree"></iconify-icon>
+              </div>
+              <h3 class="h5">Folders &amp; nesting</h3>
+              <p class="text-secondary mb-0">Drop single files or entire directories and view the folder structure in your archive.</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-xl-3">
+            <div class="feature-card">
+              <div class="icon-wrap mb-3">
+                <iconify-icon icon="lucide:infinity"></iconify-icon>
+              </div>
+              <h3 class="h5">No file limits</h3>
+              <p class="text-secondary mb-0">As many files as your browser can hold. No daily caps, no premium tier, no signup.</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-xl-3">
+            <div class="feature-card">
+              <div class="icon-wrap mb-3">
+                <iconify-icon icon="lucide:zap"></iconify-icon>
+              </div>
+              <h3 class="h5">Instant &amp; offline</h3>
+              <p class="text-secondary mb-0">Because files are compressed locally, there is no upload delay. Compression finishes as fast as your device can process it.</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-xl-3">
+            <div class="feature-card">
+              <div class="icon-wrap mb-3">
+                <iconify-icon icon="lucide:globe"></iconify-icon>
+              </div>
+              <h3 class="h5">Works everywhere</h3>
+              <p class="text-secondary mb-0">Any modern browser, any OS — desktop or mobile. No install, no plugins, no app.</p>
+            </div>
+          </div>
+
+          <!--
+          <div class="col-md-6 col-xl-3">
+            <div class="feature-card">
+              <div class="icon-wrap mb-3">
+                <iconify-icon icon="lucide:shield-check"></iconify-icon>
+              </div>
+              <h3 class="h5">Open format</h3>
+              <p class="text-secondary mb-0">Standard .zip output that opens in Windows, macOS, Linux, iOS, and Android out of the box.</p>
+            </div>
+          </div>
+          -->
+
+        </div>
+      </div>
+    </section>
+
+    <!--
+    <section id="how-it-works" class="py-5">
+      <div class="container">
+        <div class="row g-4 align-items-start">
+          <div class="col-lg-6">
+            <div class="glass-card p-4 p-lg-5 h-100">
+              <div class="text-uppercase small text-secondary fw-semibold mb-2">How it works</div>
+              <h2 class="section-title h1 mb-4">A more reassuring first-run experience</h2>
+              <div class="step">
+                <span class="step-index">1</span>
+                <div>
+                  <h3 class="h6 mb-1">Choose an action</h3>
+                  <p class="text-secondary mb-0">Visitors immediately understand whether they want to create a ZIP or extract one.</p>
+                </div>
+              </div>
+              <div class="step">
+                <span class="step-index">2</span>
+                <div>
+                  <h3 class="h6 mb-1">Add files locally</h3>
+                  <p class="text-secondary mb-0">The interface emphasizes that the browser handles the process, not a remote server.</p>
+                </div>
+              </div>
+              <div class="step">
+                <span class="step-index">3</span>
+                <div>
+                  <h3 class="h6 mb-1">Download results</h3>
+                  <p class="text-secondary mb-0">Strong primary actions lead users to the final file without unnecessary steps.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="glass-card p-4 p-lg-5 h-100">
+              <div class="text-uppercase small text-secondary fw-semibold mb-2">Content ideas</div>
+              <h2 class="section-title h1 mb-4">Suggested blocks for the live site</h2>
+              <ul class="list-clean">
+                <li>Add a short privacy explanation directly under the hero CTA.</li>
+                <li>Show supported archive types or browser compatibility as compact badges.</li>
+                <li>Include a recent updates block to reassure visitors the product is maintained.</li>
+                <li>Offer a minimal FAQ for trust, performance, and file handling questions.</li>
+                <li>Use subtle usage stats or testimonials only if they are real and verifiable.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+-->
+
+    <section id="faq" class="py-5">
+      <div class="container">
+        <div class="text-center mb-4">
+          <div class="text-uppercase small text-secondary fw-semibold mb-2">FAQ</div>
+          <h2 class="section-title display-6">Common questions, answered clearly</h2>
+        </div>
+        <div class="accordion accordion-flush glass-card p-3" id="faqAccordion">
+          <div class="accordion-item bg-transparent border-0">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed bg-transparent shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
+                <span>Are my files uploaded to a server?</span>
+              </button>
+            </h2>
+            <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+              <div class="accordion-body text-secondary">
+                No. Files2Zip compresses everything client-side using JavaScript. Your files never leave your browser.<br>However, if you email the ZIP file you made or save it to Dropbox, that ZIP file <em>is</em> sent to our server and saved there for a short time.              </div>
+            </div>
+          </div>
+          <div class="accordion-item bg-transparent border-0">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed bg-transparent shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
+                <span>Is there a file size or count limit?</span>
+              </button>
+            </h2>
+            <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+              <div class="accordion-body text-secondary">
+                There is no artificial limit. The only constraint is your device memory: browsers can typically handle archives up to a couple of gigabytes before performance degrades.              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item bg-transparent border-0">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed bg-transparent shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
+                <span>Why are the <em>Email</em> and <em>Dropbox</em> buttons disabled?</span>
+              </button>
+            </h2>
+            <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+              <div class="accordion-body text-secondary">
+                If the ZIP file you've created is larger than 100MB, we can't offer email/Dropbox integrations. You can only download the ZIP file and then process it yourself.              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+        <section id="stats" class="py-5">
+      <div class="container">
+        <div class="text-center mb-4">
+          <div class="text-uppercase small text-secondary fw-semibold mb-2">Statistics</div>
+        </div>
+
+        <div class="d-flex flex-wrap justify-content-center gap-3 mb-4">
+
+          <div class="stat">
+              <div id="stat_archives_extracted" class="fs-1 fw-bolder">270,757</div>
+              Archives extracted          </div>
+
+          <div class="stat">
+              <div id="stat_archives_created" class="fs-1 fw-bolder">228,975</div>
+              Archives created          </div>
+
+          <div class="stat">
+            <div id="stat_files_created" class="fs-1 fw-bolder">74,860,327</div>
+            Files extracted          </div>
+
+          <div class="stat">
+            <div id="stat_files_compressed" class="fs-1 fw-bolder">58,122,261</div>
+            Files compressed          </div>
+
+          <div class="stat">
+            <div id="stat_bytes_saved" class="fs-1 fw-bolder">4.8TB</div>
+            Space saved          </div>
+        </div>
+      </div>
+
+      <div class="text-center">
+        <div class="small text-secondary">since July 2026</div>
+      </div>
+
+    </section>
+    
+  </main>
+
+  <footer class="py-4">
+    	<div class="container d-flex flex-column flex-lg-row justify-content-between align-items-center gap-3">
+	      <div class="small text-secondary">© 2026 <a href="https://www.zygomatic.com" target="_blank">Zygomatic</a>.</div>
+   	   <div class="d-flex gap-3 small">
+				<a href="/">Home</a>
+				<a href="/privacy/">Privacy</a>
+				<a href="/about/">About us</a>
+				<a href="/contact/">Contact</a>
+      	</div>
+    	</div>
+  	</footer>    <div id="dragOver">
+    <div>
+      <svg viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M469.333333 85.333333v88.32A341.418667 341.418667 0 0 0 173.653333 469.333333H85.333333v85.333334h88.32A341.418667 341.418667 0 0 0 469.333333 850.346667V938.666667h85.333334v-88.32A341.418667 341.418667 0 0 0 850.346667 554.666667H938.666667v-85.333334h-88.32A341.418667 341.418667 0 0 0 554.666667 173.653333V85.333333m-85.333334 174.08V341.333333h85.333334V259.84c106.666667 17.493333 192 102.826667 209.92 209.493333H682.666667v85.333334h81.493333c-17.493333 106.666667-102.826667 192-209.493333 209.92V682.666667h-85.333334v81.493333C362.666667 746.666667 277.333333 661.333333 259.413333 554.666667H341.333333v-85.333334H259.84C277.333333 362.666667 362.666667 277.333333 469.333333 259.413333M512 469.333333a42.666667 42.666667 0 0 0-42.666667 42.666667 42.666667 42.666667 0 0 0 42.666667 42.666667 42.666667 42.666667 0 0 0 42.666667-42.666667 42.666667 42.666667 0 0 0-42.666667-42.666667z"/></svg>
+      <br>
+      Drop it like it's <em>hot</em>
+    </div>
+  </div>  <div id="wait" style="display:none">
+	<svg version="1.1" viewBox="0 0 64 64" width="1em" xmlns="http://www.w3.org/2000/svg" id="spinner">
+		<circle class="path-gradient" cx="32" cy="32" r="28" fill="none" stroke="url(#sGD)" stroke-width="8"></circle>
+		<path class="path-solid" d="M 32,4 A 28 28,0,0,0,32,60" fill="none" stroke="#000" stroke-width="8" stroke-linecap="round"></path>
+		<defs>
+			<linearGradient id="sGD" gradientUnits="userSpaceOnUse" x1="32" y1="0" x2="32" y2="64">
+				<stop stop-color="#000" offset="0.1" stop-opacity="0" class="stop1"></stop>
+				<stop stop-color="#000" offset=".9" stop-opacity="1" class="stop2"></stop>
+			</linearGradient>
+		</defs>
+		<animateTransform values="0,0,0;360,0,0" attributeName="transform" type="rotate" repeatCount="indefinite" dur="750ms">
+		</animateTransform>
+	</svg>
+  <div class="percentage"></div>
+</div>
+  <div id="downloadAllDiv" class="overlay">
+    <div class="align-items-center">
+      <div class="closeBtn"></div>
+
+      <div class="w-100 p-3">
+        <h2 class="text-center">Download all files</h2>
+        <div class="status text-center mx-auto my-2 text-truncate" style="width:80vw">&nbsp;</div>
+        <div class="progress w-100" style="height:3em">
+          <div class="progress-bar progress-bar-striped"></div>
+        </div>
+        <div class="boxy"></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="emailDiv" class="overlay">
+    <div>
+      <div class="closeBtn"></div>
+
+      <div class="w-75 p-3">
+        <h2 class="text-center mb-5">Send ZIP file by email</h2>
+
+        <form style="margin:1em auto">
+
+          <div class="form-floating mb-3">
+            <input name="sender_name" class="form-control" id="sender_name" type="text" placeholder="Your name" spellcheck="false">
+            <label for="sender_name">Your name</label>
+          </div>
+
+          <div class="form-floating mb-3">
+            <input name="sender_email" class="form-control" id="sender_email" type="email" placeholder="name@example.com">
+            <label for="sender_email">Your email address</label>
+          </div>
+
+          <div class="form-floating mb-3">
+            <input name="rcpt_email" class="form-control" id="rcpt_email" type="email" placeholder="name@example.com">
+            <label for="rcpt_email">Recipient email address</label>
+          </div>
+
+          <div class="form-floating mb-3">
+            <input name="subject" class="form-control" id="subject" type="text" placeholder="name@example.com">
+            <label for="subject">Subject</label>
+          </div>
+
+          <div class="form-floating mb-3">
+            <textarea name="message" class="form-control" id="message" placeholder="Your message" style="height: 10rem"></textarea>
+            <label for="message">Your message</label>
+          </div>
+
+          <!-- Submit Button-->
+          <div class="d-grid"><button class="btn btn-primary btn-xl py-2" type="submit">Send</button></div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
